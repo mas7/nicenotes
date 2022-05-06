@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813607639793",
+    "project_id": "nicenotes",
+    "storage_bucket": "nicenotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813607639793:android:d46540a82f979d5b852750",
+        "android_client_info": {
+          "package_name": "com.nicenotes.www.nicenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813607639793-h8q74funqfb37qrgmrshm2kv1iio0vbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEon2RFBhzWabO94f9avhTObRMpA-h5iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813607639793-h8q74funqfb37qrgmrshm2kv1iio0vbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
